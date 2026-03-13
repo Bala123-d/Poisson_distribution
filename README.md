@@ -1,4 +1,8 @@
 # Fitting Poisson  distribution
+```
+# Name: D.BALA SUBRAMANYAM
+# Reg no :212224040062
+```
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -91,5 +95,6 @@ The given data cannot be fitted in Poisson Distribution at 1% LOS
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test.
 
 # Github :
-
+```
 https://github.com/Bala123-d/Poisson_distribution.git
+```
