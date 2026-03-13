@@ -1,7 +1,7 @@
 # Fitting Poisson  distribution
 ```
 # Name: D.BALA SUBRAMANYAM
-# Reg no :212224040062
+# Reg no: 212224040062
 ```
 # Aim : 
 
