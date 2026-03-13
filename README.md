@@ -89,3 +89,7 @@ The given data cannot be fitted in Poisson Distribution at 1% LOS
 # Results
 
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test.
+
+# Github :
+
+https://github.com/Bala123-d/Poisson_distribution.git
