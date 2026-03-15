@@ -1,8 +1,6 @@
-# Fitting Poisson  distribution
-```
-# Name: D.BALA SUBRAMANYAM
-# Reg no: 212224040062
-```
+# Date: 04/02/26
+# EXP:2 Fitting Poisson  distribution
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
